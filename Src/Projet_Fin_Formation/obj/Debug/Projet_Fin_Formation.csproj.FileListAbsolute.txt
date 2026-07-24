@@ -1,0 +1,43 @@
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Properties.Resources.resources
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\bin\Debug\Projet_Fin_Formation.exe
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\bin\Debug\Projet_Fin_Formation.pdb
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.exe
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Form_Login.resources
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Client.resources
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Utilisateur.resources
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Audit.resources
+C:\Users\hp\Desktop\travaille_VB\Nouveau dossier d'application\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Menu_Principale.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.exe
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\bin\Debug\Projet_Fin_Formation.exe
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\bin\Debug\Projet_Fin_Formation.pdb
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Audit.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Menu_Principale.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Client.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Form_Login.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Properties.Resources.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Utilisateur.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\bin\Debug\Projet_Fin_Formation.exe.config
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.catégorie.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Entrepot.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Emplacement.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Role.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Vente.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Commande_Achat.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Fournisseur.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Produit.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Bon_Livraison.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Ligne_Vente.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Lot.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Fournir.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Paiement.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Inventaire.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Ligne_Inventaire.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Ligne_Achat.resources
+C:\Users\hp\Desktop\Projet_Fin_Formation\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.Ligne_Stock.resources
